@@ -1,0 +1,43 @@
+body{
+    background-color: #f5f5f5;
+}
+nav {
+    background-color: #e6e7e8
+}
+
+img {
+    width: 120px;
+}
+
+.banner{
+    width: 1904px;
+
+}
+
+.carrinho{
+    width: 45px;
+    float: right;
+    margin-top: 36px;
+    margin-right: 35px;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .image-container a {
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+    text-align: center;
+    margin: 0;
+    display: block;
+  }
+  
+  .image-container img {
+    width: 400px;
+    height: 400px;
+    margin-bottom: 10px;
+  
+  }
